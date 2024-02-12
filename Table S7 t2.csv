@@ -1,0 +1,34 @@
+ID,Description,genes,Betweenness,Centroid,Bridging,term,termID,logFC
+A0A8I3P5T9,Cell division control protein 42 homolog,CDC42,88,-28.48,19,actin cytoskeleton organization,t1,88
+A0A8I3MV74,D-3-phosphoglycerate dehydrogenase,PHGDH,34,-61.61,18,amino acid metabolic process,t2,34
+A0A8I3N480,Serine hydroxymethyltransferase,SHMT2,31,-46.9,59,amino acid metabolic process,t2,31
+A0A8I3N6V8,Citrate synthase,CS,46,-64.55,29,carbohydrate metabolic process,t3,46
+A0A8I3PVT9,phosphopyruvate hydratase,ENO1,58,-34.37,23,carbohydrate metabolic process,t3,58
+A0A8I3PMV2,Pyruvate kinase,PKM,65,-57.89,14,carbohydrate metabolic process,t3,65
+A0A8I3Q024,"Alpha-1,4 glucan phosphorylase",PYGB,30,-69.04,79,carbohydrate metabolic process,t3,30
+A0A8I3S7V6,Titin,TTN,46,-73.37,100,cardiac myofibril assembly,t4,46
+A0A8I3NAI4,Ferritin,FTH1,46,-58.36,15,cell redox homeostasis,t5,46
+A0A8I3S396,Superoxide dismutase [Cu-Zn],SOD1,28,-48.92,16,cell redox homeostasis,t5,28
+A0A8I3N025,Vitronectin,VTN,86,-69.66,25,cell-matrix adhesion,t6,86
+F2Z4N2,Histone H4,H4C9,58,-51.08,14,chromatin organization,t7,58
+A0A8I3NRK9,Reticulon,RTN4,28,-73.84,35,endoplasmic reticulum organization,t8,28
+A0A8I3NRF8,"RAB1B, member RAS oncogene family",RAB1B,24,-65.63,23,endoplasmic reticulum to Golgi vesicle-mediated transport,t9,24
+A0A8I3MVE3,Transmembrane p24 trafficking protein 7,TMED7,46,-59.29,15,endoplasmic reticulum to Golgi vesicle-mediated transport,t9,46
+A0A8I3NCH2,ATP synthase subunit beta,ATP5F1B,24,-64.86,15,lipid metabolic process,t10,24
+A0A8I3S599,Low density lipoprotein receptor,LDLR,30,-61.76,31,lipid metabolic process,t10,30
+P33724,Caveolin-1,CAV1,29,-29.41,16,lipid metabolic process,t10,29
+A0A8I3P5T9,Cell division control protein 42 homolog,CDC42,88,-28.48,19,microtubule-based process,t11,88
+A0A8I3NCH2,ATP synthase subunit beta,ATP5F1B,24,-64.86,15,mitochondrial proton-transporting ATP synthase complex,t12,24
+A0A8I3S201,UMP-CMP kinase,CMPK1,25,-67.34,29,nucleotide metabolic process,t13,25
+A0A8I3PP34,Hypoxanthine phosphoribosyltransferase,HPRT1,31,-72.14,33,nucleotide metabolic process,t13,31
+A0A8I3RZS2,DNA damage-binding protein 1,DDB1,41,-69.66,16,proteasome-mediated ubiquitin-dependent protein catabolic process,t14,41
+A0A8I3PI04,Chaperonin containing TCP1 subunit 5,CCT5,27,-57.43,14,protein folding,t15,27
+A0A8I3S5M8,Protein disulfide-isomerase,PDIA3,32,-38.85,14,protein folding,t15,32
+A0A8I3NVG7,Peptidyl-prolyl cis-trans isomerase,PPIA,25,-62.54,26,protein folding,t15,25
+A0A8I3S2V9,Thioredoxin domain-containing protein,TXNDC5,30,-41.49,15,protein folding,t15,30
+A0A8I3MWF5,Transitional endoplasmic reticulum ATPase,VCP,100,-24.77,14,protein folding,t15,100
+A0A8I3MFU6,Procollagen C-endopeptidase enhancer,PCOLCE,28,-100,47,proteolysis,t16,28
+A0A8I3MWF5,Transitional endoplasmic reticulum ATPase,VCP,100,-24.77,14,regulation of ubiquitin-dependent protein catabolic process,t17,100
+A0A8I3SAZ0,Phosphatidylethanolamine binding protein 1,PEBP1,50,-41.64,14,serine-type endopeptidase inhibitor activity,t18,50
+A0A8I3NXQ1,Trans-golgi network protein 2,TGOLN2,27,-33.28,25,trans-Golgi network transport vesicle,t19,27
+P33724,Caveolin-1,CAV1,29,-29.41,16,vesicle organization,t20,29
